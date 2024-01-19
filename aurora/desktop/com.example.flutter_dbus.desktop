@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=flutter_dbus
+Comment=A new Flutter project.
+Icon=com.example.flutter_dbus
+Exec=/usr/bin/com.example.flutter_dbus
+X-Nemo-Application-Type=silica-qt5
+
+[X-Application]
+Permissions=DeviceInfo
+OrganizationName=com.example
+ApplicationName=flutter_dbus

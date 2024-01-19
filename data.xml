@@ -1,0 +1,7 @@
+<node>
+    <interface name="ru.omp.deviceinfo.Features">
+        <method name="getBatteryChargePercentage">
+            <arg name="output" type="u" direction="out" />
+        </method>
+    </interface>
+</node>
